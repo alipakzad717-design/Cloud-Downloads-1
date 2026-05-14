@@ -1,0 +1,19 @@
+{
+  "destination": "release",
+  "tag": "co-releases-v1-7080",
+  "folder": "Other__Xray-windows-64_20260514105944_03a332",
+  "base_name": "Other__Xray-windows-64_20260514105944_03a332.zip",
+  "is_split": false,
+  "part_count": 1,
+  "release_url": "https://github.com/alipakzad717-design/Cloud-Downloads-1/releases/tag/co-releases-v1-7080",
+  "files": [
+    {
+      "name": "Other__Xray-windows-64_20260514105944_03a332.zip",
+      "url": "https://github.com/alipakzad717-design/Cloud-Downloads-1/releases/download/co-releases-v1-7080/Other__Xray-windows-64_20260514105944_03a332.zip",
+      "api_url": "https://api.github.com/repos/alipakzad717-design/Cloud-Downloads-1/releases/assets/420094160",
+      "id": 420094160,
+      "size": 20933291,
+      "download_count": 0
+    }
+  ]
+}
